@@ -17,13 +17,11 @@ In this study, we investigated these two essential aspects regarding universal a
 
 ## Quick Start
 #### Get our docker image
-
-```
 Todo
-```
+
 #### Run code
 Todo
-```
+
 
 ## Citation
 ```
